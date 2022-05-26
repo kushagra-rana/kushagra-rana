@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kushagra-rana
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML,CSS and Javascript
+- 🌱 I’m currently learning Node js and React js
 - 💞️ I’m looking to collaborate on Web Development Projects
 - 📫 How to reach me kushagrarana75@gmail.com
 
